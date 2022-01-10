@@ -1,4 +1,4 @@
-#Screenshot
+# Desktop Version of CheckThat App: 🔥🔥 Do checkout the live version 🔥🔥
 
 ![Screenshot (7)](https://user-images.githubusercontent.com/94052679/147208366-92a70647-29f1-4df1-b6c6-d89e0e668394.png)
 
